@@ -1,0 +1,7 @@
+Create a GitHub repository: If you haven't already, create a GitHub repository for your assignment solution. Ensure that your solution files are pushed to this repository.
+
+Enable GitHub Pages: Go to your repository settings, scroll down to the GitHub Pages section, and choose the source branch (typically main or master) from which GitHub Pages will build your site.
+
+Accessing your site: Once GitHub Pages is set up, your site will be available at a URL following this pattern: http://yourgithubusername.github.io/repository-name. Replace yourgithubusername with your actual GitHub username and repository-name with the name of your repository.
+
+Check your site: Before submitting your assignment, make sure to open the URL in your browser to ensure that your assignment solution is displayed correctly.
