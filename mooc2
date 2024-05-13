@@ -1,0 +1,9 @@
+Create a GitHub Repository: If you haven't already, create a repository on GitHub for your project.
+
+Upload Your Solution: Upload your assignment solution files to this repository.
+
+Enable GitHub Pages: In your repository settings, navigate to the "Pages" section. Choose the branch that contains your solution (usually main or master) and set the folder to the one containing your assignment solution (e.g., module3-solution).
+
+Access Your Site: Once GitHub Pages is enabled, your site will be accessible at a URL similar to this: http://yourGitHubId.github.io/repository-name/module3-solution. Replace "yourGitHubId" with your actual GitHub username and "repository-name" with the name of your repository.
+
+Verify: Before submitting the URL, ensure that it displays your solution web page correctly by opening it in a web browser.
